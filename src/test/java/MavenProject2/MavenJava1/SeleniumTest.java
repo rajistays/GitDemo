@@ -15,6 +15,7 @@ public class SeleniumTest {
 	{
 		System.out.println("Inside Elements UI");
 		System.out.println("This line is included by git user 2");
+		System.out.println("This line is included by git user1 ");
 	} 
 	
 
