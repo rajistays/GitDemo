@@ -18,5 +18,11 @@ public class SeleniumTest {
 		System.out.println("This line is included by git user1 ");
 	} 
 	
+	@Test
+	public void MobileAutomation()
+	{
+		System.out.println("Added by user1 Deve team");
+	}
+	
 
 }

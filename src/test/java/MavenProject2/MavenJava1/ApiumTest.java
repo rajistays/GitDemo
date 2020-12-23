@@ -14,5 +14,11 @@ public class ApiumTest {
 	public void IOSApps() {
 		System.out.println("Inside IOS Apps");
 	}
+	
+	@Test
+	public void MobileAutomation()
+	{
+		System.out.println("Added by user1 Deve team");
+	}
 }
 
